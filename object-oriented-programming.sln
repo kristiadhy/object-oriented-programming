@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncapsulationDemo", "EncapsulationDemo\EncapsulationDemo.csproj", "{9D1358A4-2904-440E-8BB9-9181D4D4F589}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassAndObject", "ClassAndObject\ClassAndObject.csproj", "{F7A472CC-988D-42AA-99AB-9A2E05C8BB54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritenceDemo", "InheritenceDemo\InheritenceDemo.csproj", "{15F99264-91B6-48CC-AEA6-B1A123973FF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D1358A4-2904-440E-8BB9-9181D4D4F589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D1358A4-2904-440E-8BB9-9181D4D4F589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D1358A4-2904-440E-8BB9-9181D4D4F589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D1358A4-2904-440E-8BB9-9181D4D4F589}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7A472CC-988D-42AA-99AB-9A2E05C8BB54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7A472CC-988D-42AA-99AB-9A2E05C8BB54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7A472CC-988D-42AA-99AB-9A2E05C8BB54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7A472CC-988D-42AA-99AB-9A2E05C8BB54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15F99264-91B6-48CC-AEA6-B1A123973FF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F99264-91B6-48CC-AEA6-B1A123973FF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F99264-91B6-48CC-AEA6-B1A123973FF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F99264-91B6-48CC-AEA6-B1A123973FF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
