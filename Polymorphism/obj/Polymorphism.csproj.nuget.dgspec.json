@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Kristiadhy\\Sample Project\\object-oriented-programming\\EncapsulationDemo\\EncapsulationDemo.csproj": {}
+    "D:\\Kristiadhy\\Sample Project\\object-oriented-programming\\Polymorphism\\Polymorphism.csproj": {}
   },
   "projects": {
-    "D:\\Kristiadhy\\Sample Project\\object-oriented-programming\\EncapsulationDemo\\EncapsulationDemo.csproj": {
+    "D:\\Kristiadhy\\Sample Project\\object-oriented-programming\\Polymorphism\\Polymorphism.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Kristiadhy\\Sample Project\\object-oriented-programming\\EncapsulationDemo\\EncapsulationDemo.csproj",
-        "projectName": "EncapsulationDemo",
-        "projectPath": "D:\\Kristiadhy\\Sample Project\\object-oriented-programming\\EncapsulationDemo\\EncapsulationDemo.csproj",
+        "projectUniqueName": "D:\\Kristiadhy\\Sample Project\\object-oriented-programming\\Polymorphism\\Polymorphism.csproj",
+        "projectName": "Polymorphism",
+        "projectPath": "D:\\Kristiadhy\\Sample Project\\object-oriented-programming\\Polymorphism\\Polymorphism.csproj",
         "packagesPath": "C:\\Users\\MATRIXCOMPUTER\\.nuget\\packages\\",
-        "outputPath": "D:\\Kristiadhy\\Sample Project\\object-oriented-programming\\EncapsulationDemo\\obj\\",
+        "outputPath": "D:\\Kristiadhy\\Sample Project\\object-oriented-programming\\Polymorphism\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MATRIXCOMPUTER\\AppData\\Roaming\\NuGet\\NuGet.Config",

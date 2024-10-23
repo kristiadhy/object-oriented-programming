@@ -1,25 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Software Development\\Sample Project\\object-oriented-programming\\InheritenceDemo\\InheritenceDemo.csproj": {}
+    "D:\\Kristiadhy\\Sample Project\\object-oriented-programming\\InheritenceDemo\\InheritenceDemo.csproj": {}
   },
   "projects": {
-    "E:\\Software Development\\Sample Project\\object-oriented-programming\\InheritenceDemo\\InheritenceDemo.csproj": {
+    "D:\\Kristiadhy\\Sample Project\\object-oriented-programming\\InheritenceDemo\\InheritenceDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Software Development\\Sample Project\\object-oriented-programming\\InheritenceDemo\\InheritenceDemo.csproj",
+        "projectUniqueName": "D:\\Kristiadhy\\Sample Project\\object-oriented-programming\\InheritenceDemo\\InheritenceDemo.csproj",
         "projectName": "InheritenceDemo",
-        "projectPath": "E:\\Software Development\\Sample Project\\object-oriented-programming\\InheritenceDemo\\InheritenceDemo.csproj",
-        "packagesPath": "C:\\Users\\cheezeadhy\\.nuget\\packages\\",
-        "outputPath": "E:\\Software Development\\Sample Project\\object-oriented-programming\\InheritenceDemo\\obj\\",
+        "projectPath": "D:\\Kristiadhy\\Sample Project\\object-oriented-programming\\InheritenceDemo\\InheritenceDemo.csproj",
+        "packagesPath": "C:\\Users\\MATRIXCOMPUTER\\.nuget\\packages\\",
+        "outputPath": "D:\\Kristiadhy\\Sample Project\\object-oriented-programming\\InheritenceDemo\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\cheezeadhy\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+          "C:\\Users\\MATRIXCOMPUTER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\DevExpress 23.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },

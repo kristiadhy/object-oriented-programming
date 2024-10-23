@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Kristiadhy\\Sample Project\\object-oriented-programming\\InheritenceDemo\\InheritenceDemo.csproj",
-      "projectName": "InheritenceDemo",
-      "projectPath": "D:\\Kristiadhy\\Sample Project\\object-oriented-programming\\InheritenceDemo\\InheritenceDemo.csproj",
+      "projectUniqueName": "D:\\Kristiadhy\\Sample Project\\object-oriented-programming\\Polymorphism\\PolymorphismDemo.csproj",
+      "projectName": "PolymorphismDemo",
+      "projectPath": "D:\\Kristiadhy\\Sample Project\\object-oriented-programming\\Polymorphism\\PolymorphismDemo.csproj",
       "packagesPath": "C:\\Users\\MATRIXCOMPUTER\\.nuget\\packages\\",
-      "outputPath": "D:\\Kristiadhy\\Sample Project\\object-oriented-programming\\InheritenceDemo\\obj\\",
+      "outputPath": "D:\\Kristiadhy\\Sample Project\\object-oriented-programming\\Polymorphism\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MATRIXCOMPUTER\\AppData\\Roaming\\NuGet\\NuGet.Config",
