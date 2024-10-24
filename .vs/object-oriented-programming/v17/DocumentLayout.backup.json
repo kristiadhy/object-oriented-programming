@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kristiadhy\\Sample Project\\object-oriented-programming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1358A4-2904-440E-8BB9-9181D4D4F589}|EncapsulationDemo\\EncapsulationDemo.csproj|d:\\kristiadhy\\sample project\\object-oriented-programming\\encapsulationdemo\\bankdataencapsulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1358A4-2904-440E-8BB9-9181D4D4F589}|EncapsulationDemo\\EncapsulationDemo.csproj|solutionrelative:encapsulationdemo\\bankdataencapsulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F99264-91B6-48CC-AEA6-B1A123973FF9}|InheritenceDemo\\InheritenceDemo.csproj|d:\\kristiadhy\\sample project\\object-oriented-programming\\inheritencedemo\\rules\\rule3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F99264-91B6-48CC-AEA6-B1A123973FF9}|InheritenceDemo\\InheritenceDemo.csproj|solutionrelative:inheritencedemo\\rules\\rule3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F99264-91B6-48CC-AEA6-B1A123973FF9}|InheritenceDemo\\InheritenceDemo.csproj|d:\\kristiadhy\\sample project\\object-oriented-programming\\inheritencedemo\\hierarchicalinheritence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F99264-91B6-48CC-AEA6-B1A123973FF9}|InheritenceDemo\\InheritenceDemo.csproj|solutionrelative:inheritencedemo\\hierarchicalinheritence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F99264-91B6-48CC-AEA6-B1A123973FF9}|InheritenceDemo\\InheritenceDemo.csproj|d:\\kristiadhy\\sample project\\object-oriented-programming\\inheritencedemo\\singleinheritence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F99264-91B6-48CC-AEA6-B1A123973FF9}|InheritenceDemo\\InheritenceDemo.csproj|solutionrelative:inheritencedemo\\singleinheritence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F99264-91B6-48CC-AEA6-B1A123973FF9}|InheritenceDemo\\InheritenceDemo.csproj|d:\\kristiadhy\\sample project\\object-oriented-programming\\inheritencedemo\\multilevelnheritence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F99264-91B6-48CC-AEA6-B1A123973FF9}|InheritenceDemo\\InheritenceDemo.csproj|solutionrelative:inheritencedemo\\multilevelnheritence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A472CC-988D-42AA-99AB-9A2E05C8BB54}|ClassAndObject\\ClassAndObject.csproj|d:\\kristiadhy\\sample project\\object-oriented-programming\\classandobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A472CC-988D-42AA-99AB-9A2E05C8BB54}|ClassAndObject\\ClassAndObject.csproj|solutionrelative:classandobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A472CC-988D-42AA-99AB-9A2E05C8BB54}|ClassAndObject\\ClassAndObject.csproj|d:\\kristiadhy\\sample project\\object-oriented-programming\\classandobject\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A472CC-988D-42AA-99AB-9A2E05C8BB54}|ClassAndObject\\ClassAndObject.csproj|solutionrelative:classandobject\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankDataEncapsulation.cs",
+              "DocumentMoniker": "D:\\Kristiadhy\\Sample Project\\object-oriented-programming\\EncapsulationDemo\\BankDataEncapsulation.cs",
+              "RelativeDocumentMoniker": "EncapsulationDemo\\BankDataEncapsulation.cs",
+              "ToolTip": "D:\\Kristiadhy\\Sample Project\\object-oriented-programming\\EncapsulationDemo\\BankDataEncapsulation.cs",
+              "RelativeToolTip": "EncapsulationDemo\\BankDataEncapsulation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T05:00:01.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rule3.cs",
+              "DocumentMoniker": "D:\\Kristiadhy\\Sample Project\\object-oriented-programming\\InheritenceDemo\\Rules\\Rule3.cs",
+              "RelativeDocumentMoniker": "InheritenceDemo\\Rules\\Rule3.cs",
+              "ToolTip": "D:\\Kristiadhy\\Sample Project\\object-oriented-programming\\InheritenceDemo\\Rules\\Rule3.cs",
+              "RelativeToolTip": "InheritenceDemo\\Rules\\Rule3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T04:58:59.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HierarchicalInheritence.cs",
+              "DocumentMoniker": "D:\\Kristiadhy\\Sample Project\\object-oriented-programming\\InheritenceDemo\\HierarchicalInheritence.cs",
+              "RelativeDocumentMoniker": "InheritenceDemo\\HierarchicalInheritence.cs",
+              "ToolTip": "D:\\Kristiadhy\\Sample Project\\object-oriented-programming\\InheritenceDemo\\HierarchicalInheritence.cs",
+              "RelativeToolTip": "InheritenceDemo\\HierarchicalInheritence.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T04:56:03.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Multilevelnheritence.cs",
+              "DocumentMoniker": "D:\\Kristiadhy\\Sample Project\\object-oriented-programming\\InheritenceDemo\\Multilevelnheritence.cs",
+              "RelativeDocumentMoniker": "InheritenceDemo\\Multilevelnheritence.cs",
+              "ToolTip": "D:\\Kristiadhy\\Sample Project\\object-oriented-programming\\InheritenceDemo\\Multilevelnheritence.cs",
+              "RelativeToolTip": "InheritenceDemo\\Multilevelnheritence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T04:55:19.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SingleInheritence.cs",
+              "DocumentMoniker": "D:\\Kristiadhy\\Sample Project\\object-oriented-programming\\InheritenceDemo\\SingleInheritence.cs",
+              "RelativeDocumentMoniker": "InheritenceDemo\\SingleInheritence.cs",
+              "ToolTip": "D:\\Kristiadhy\\Sample Project\\object-oriented-programming\\InheritenceDemo\\SingleInheritence.cs",
+              "RelativeToolTip": "InheritenceDemo\\SingleInheritence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T04:54:32.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Kristiadhy\\Sample Project\\object-oriented-programming\\ClassAndObject\\Program.cs",
+              "RelativeDocumentMoniker": "ClassAndObject\\Program.cs",
+              "ToolTip": "D:\\Kristiadhy\\Sample Project\\object-oriented-programming\\ClassAndObject\\Program.cs",
+              "RelativeToolTip": "ClassAndObject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T04:52:02.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Kristiadhy\\Sample Project\\object-oriented-programming\\ClassAndObject\\Car.cs",
+              "RelativeDocumentMoniker": "ClassAndObject\\Car.cs",
+              "ToolTip": "D:\\Kristiadhy\\Sample Project\\object-oriented-programming\\ClassAndObject\\Car.cs",
+              "RelativeToolTip": "ClassAndObject\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T04:51:51.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

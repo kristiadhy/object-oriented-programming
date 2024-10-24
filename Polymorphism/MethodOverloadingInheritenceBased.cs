@@ -1,8 +1,6 @@
-using System;
-
 namespace PolymorphismDemo;
 
-class Class1
+class Calculator1
 {
     public void Add(int a, int b)
     {
@@ -11,5 +9,13 @@ class Class1
     public void Add(float x, float y)
     {
         Console.WriteLine(x + y);
+    }
+}
+
+class Calculator2 : Calculator1
+{
+    public void Add(string s1, string s2)
+    {
+        Console.WriteLine(s1 +" "+ s2);
     }
 }

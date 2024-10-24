@@ -1,6 +1,5 @@
-﻿using InheritenceDemo.HierarchicalInheritence;
-using InheritenceDemo.MultilevelInheritence;
-using InheritenceDemo.SingleInheritence;
+﻿using InheritenceDemo;
+
 
 // Single Inheritence
 Dog myDog = new Dog();

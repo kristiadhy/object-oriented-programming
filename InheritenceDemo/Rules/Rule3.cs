@@ -17,6 +17,9 @@ class A
         Console.WriteLine("Method 2");
     }
 }
+
+// It will give an error because the base class constructor is parameterized
+// and the derived class constructor is not calling the base class constructor.
 // class B : A
 // {
 //     public B()
